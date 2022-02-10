@@ -1,1 +1,1 @@
-# Note-for-PS
+# StudyNote-for-PS
